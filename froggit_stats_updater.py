@@ -1,3 +1,5 @@
+#v1.0.0
+
 #Modules
 import sqlite3
 import datetime

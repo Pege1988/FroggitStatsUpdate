@@ -1,3 +1,4 @@
+#v1.0.0
 
 import sqlite3
 import datetime
